@@ -1,0 +1,237 @@
+@charset "utf-8";
+body {
+	background-color: #a7bede;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 50px;
+	margin-left: auto;
+	width: 960px
+}
+#top {
+	width: 100%;
+	height: 130px
+}
+#logo {
+	height: 100%;
+	width: 28%;
+	margin: 0;
+	float: left
+}
+#banner {
+	width: 72%;
+	height: 110px;
+	margin: 0;
+	float: left
+}
+#top_navigation {
+	width: 72%;
+	float: left;
+	background-color: #1f3c5e
+}
+#left_side {
+	width: 15%;
+	float: left
+}
+#lnbreak {
+	margin-top: 10px
+}
+#content {
+	width: 85%;
+	float: left;
+	margin: 0;
+	height: 100%
+}
+#yesh_shab_img {
+	margin-left: 5%;
+	height: 312px;
+	width: 30%;
+	margin-right: auto;
+	float: left;
+	margin-bottom: 20px
+}
+#ys_heading {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto
+}
+#FTLPtext {
+	background-color: #FFF;
+	text-align: justify;
+	padding: 2%;
+	width: 95%;
+	margin-top: 1px;
+	margin-left: 1%
+}
+#FTLPtext h1 {
+	text-align: center
+}
+#FTLPtext p {
+	text-indent: 5%;
+	font-size: medium;
+	line-height: 1.5;
+	margin: 0
+}
+#YStext {
+	text-indent: 5%;
+	font-size: 18px;
+	line-height: 1.5;
+	padding-left: 40%
+}
+
+
+#YStext1 {
+	font-size: 24px;
+	line-height: 1.5;
+	margin-left: 35%;
+	width: 65%;
+	text-align: right;
+	font-weight: 700;
+	margin-top: -3%
+}
+
+#ys_sched {
+	margin-left: 3%;
+	margin-bottom: 5%
+}
+#signature {
+	text-align: right;
+	font-style: italic;
+	font-weight: 700
+}
+
+#FTLPtext #letter {
+	background-color: #CCC;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 2%;
+	padding-left: 2%;
+	margin-top: 1%
+}
+#FTLPtext #links {
+	width: 40%;
+	text-align: center;
+	font-size: x-large;
+	text-decoration: underline;
+	background-color: #A7BEDE;
+	margin-right: 8%;
+	float: right;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 3%
+}
+h3 {
+	width: 30%;
+	text-align: left;
+	font-size: x-large;
+	text-decoration: underline;
+	background-color: #A7BEDE;
+	margin-right: 70%;
+	float: left;
+	margin-top: 2%;
+	margin-bottom: 0;
+	margin-left: -3%;
+	font-variant: small-caps;
+	line-height: 1.5;
+	padding-left: 2%
+}
+.top_nav {
+	width: 25%;
+	float: left;
+	text-align: center;
+	font-weight: 700;
+	font-variant: small-caps;
+	text-transform: uppercase;
+	color: #FFF;
+	height: 18px;
+	margin: 2px 0 0
+}
+.left_nav {
+	height: 30px;
+	background-color: #1f3c5e;
+	color: #FFF;
+	float: left;
+	clear: left;
+	width: 100%;
+	text-align: left;
+	text-indent: 5%;
+	font-size: larger;
+	margin-top: 2px;
+	padding-top: 5px;
+	font-weight: 700;
+	font-variant: small-caps
+}
+.main_image {
+	width: 99%;
+	margin-left: 1%;
+	margin-top: 1px;
+	margin-bottom: 1%
+}
+.sched_link {
+	float: left;
+	width: 33%;
+	text-align: center;
+	font-variant: small-caps;
+	font-size: x-large;
+	text-decoration: underline
+}
+#content #schedule  {
+	background-color: #FFF;
+	margin-left: 3%;
+	width: auto;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+#content #schedule p  {
+	padding: 0px;
+	font-weight: bold;
+	font-size: 18px;
+	font-variant: small-caps;
+	clear: left;
+	width: 100%;
+	margin: 0px;
+	text-align: center;
+}
+.time_item {
+	width: 20%;
+	float: left;
+	background-color: #CCC;
+	margin-right: 3%;
+	padding: 5px;
+	text-align: center;
+	margin-top: 1%;
+	font-size: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	margin-bottom: 0px;}
+.time_item2 {
+	width: 29%;
+	float: left;
+	background-color: #CCC;
+	margin-right: 3%;
+	padding: 5px;
+	text-align: center;
+	margin-top: 1%;
+	font-size: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	margin-bottom: 0px;
+	height: 40px;
+}
+#t770   {
+	width: 29%;
+	float: left;
+	background-color: #CCC;
+	margin-right: 3%;
+	text-align: center;
+	margin-top: 1%;
+	font-size: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	margin-bottom: 0px;
+	height: 40px;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
